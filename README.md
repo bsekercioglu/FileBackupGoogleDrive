@@ -44,13 +44,6 @@ CheckIntervalMinutes=60
 DeleteAfterBackup=false
 ```
 
-### 3. Derleme ve Çalıştırma
-
-```bash
-dotnet restore
-dotnet build
-dotnet run
-```
 
 ## Kullanım
 
